@@ -13,4 +13,4 @@ The uploaded codes will allow the following analysis to be performed on any unkn
 Contributors:
 
 Rashid Saif, Hijab Fatima, Noor Khalid, Sara Ishaq, Khansa Khalid, Wajiha Frooq, Jessica Alyas, Kanza Ashfaq, Anam Murtaza, Ayesha Rafiq, Fatima Batool, Isha Waheed, 
-Romela Mudassir, Sara Farooq, Tayyaba Arif, Zunaira Altaf
+Romela Mudassir, Sara Farooq, Tayyaba Arif, Zunaira Altaf, Meerab Rashid
